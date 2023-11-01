@@ -1,3 +1,3 @@
 # cloud_gcp
 
-## Repositório para códigos do Google GCP
+## Projeto de pipeline de dados com proessamento via PySpark no dataproc da GCP.
